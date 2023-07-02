@@ -24,5 +24,5 @@ You can look results and explore more from here:
 2. `Recommendations_with_IBM.ipynb`
 
 ### 4. Acknowledgements <a name="acknow"></a>
-- Thanks to (IBM Watson Studio](https://www.ibm.com/products/watson-studio) platform for providing the dataset.
+- Thanks to [IBM Watson Studio](https://www.ibm.com/products/watson-studio) platform for providing the dataset.
 - Also [Udacity](https://www.udacity.com/) which granted access to this dataset.
