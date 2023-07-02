@@ -1,11 +1,16 @@
-# Recommendations With IBM Project
+<div align="center">
+  <img src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg" alt="IBM Logo" width="110" style="margin-right: 10px;">
+  <br>
+  <img src="https://www.udacity.com/images/svgs/udacity-tt-logo.svg" alt="Udacity Logo" width="150" style="margin-left: 10px;">
+  <h1 style="color: #006241; font-size: 20px;">Recommendations with IBM</h1>
+</div>
 
 ## Table of Contents
 
 - **1.** [Installation](#installation)
 - **2.** [Project Motivation](#motivation)
-- **3.** [Results File](#results)
-- **5.** [Acknowledgments](#acknow)
+- **3.** [Results](#results)
+- **4.** [Acknowledgments](#acknow)
 
 ### 1. Installation <a name="installation"></a>
 To run the code successfully, make sure we have these libraries installed in our Python environment:
